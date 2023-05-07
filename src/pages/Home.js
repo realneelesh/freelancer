@@ -78,7 +78,7 @@ function Home(props) {
         <div
         style={{padding: '0px 20px', marginTop: '-23px'}}
         >
-                       <h3 style={{display: 'inline', fontWeight: '300'}}>Software Developer</h3>
+                       <h3 style={{display: 'inline', fontWeight: '300'}}>Software Consultant</h3>
             <br/>
             <br/> 
             Experience:<h2 style={{display: 'inline', fontWeight: '300'}}> {new Date().toDateString().split(' ')[3]-2020} years</h2>
