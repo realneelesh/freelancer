@@ -80,7 +80,7 @@ function Home(props) {
                        <h3 style={{display: 'inline', fontWeight: '300'}}>Software Consultant</h3>
             <br/>
             <br/> 
-            Experience:<h2 style={{display: 'inline', fontWeight: '300'}}> {new Date().toDateString().split(' ')[3]-2020} years</h2>
+            Experience:<h2 style={{display: 'inline', fontWeight: '300'}}> {new Date().toDateString().split(' ')[3]-2020}</h2> years
             <br/> Projects Delivered: <h2 style={{display: 'inline', fontWeight: '300'}}>15+</h2>
         <br/> Expertise: <h2 style={{display: 'inline', fontWeight: '300'}}>Web</h2> Solutions
         {/* <br/> Starting from <h2 style={{display: 'inline', fontWeight: '300'}}>$120</h2> per project */}
