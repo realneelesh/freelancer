@@ -96,7 +96,7 @@ top: '16vh', right: '0'}}
 <a href="https://www.linkedin.com/in/neelesh-sharma-6178971aa/" class="fa fa-linkedin"></a>
 <a href="#" class="fa fa-facebook"></a>  
 
-<a href="#" class="fa fa-instagram"></a>
+<a href="https://www.instagram.com/consultant_developer/" class="fa fa-instagram"></a>
 </div>
 
 
