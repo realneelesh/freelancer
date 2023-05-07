@@ -45,7 +45,7 @@ function MobileHome(props) {
             Experience:<h2 style={{display: 'inline', fontWeight: '300'}}> {new Date().toDateString().split(' ')[3]-2020} years</h2>
         <br/> Projects Delivered: <h2 style={{display: 'inline', fontWeight: '300'}}>15+</h2>
         <br/> Expertise: <h2 style={{display: 'inline', fontWeight: '300'}}>Web</h2> Solutions
-        <br/> Starting from <h2 style={{display: 'inline', fontWeight: '300'}}>$120 per Project</h2>
+        {/* <br/> Starting from <h2 style={{display: 'inline', fontWeight: '300'}}>$120 per Project</h2> */}
        
         <br/> Education: <h2 style={{display: 'inline', fontWeight: '300'}}>IIT </h2>Roorkee
         </div> 
