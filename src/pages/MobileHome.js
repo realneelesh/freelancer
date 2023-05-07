@@ -1,8 +1,7 @@
 import React from 'react';
-import ProjectCard from '../components/ProjectCard';
-import Aviatoh from '../assets/aviatoh.mov';
+import ProjectCard from '../components/ProjectCard'; 
 import AviatohImg from '../assets/aviatoh.png';
-import AliceVid from '../assets/alice.mov';
+import Alice from '../assets/alice.png';
 import Archana from '../assets/archana.mov';
 
 function MobileHome(props) {
@@ -85,7 +84,7 @@ function MobileHome(props) {
 
             <ProjectCard isMobile={true} type="Documentation System" title="Aviatoh" link="https://aviatoh.com" image={AviatohImg} />
 
-            <ProjectCard isMobile={true} title="Alice Banting" type="Portfolio" description="fasfdsf asdfa" video={AliceVid} link="https://alicebanting.com" />
+            <ProjectCard isMobile={true} title="Alice Banting" type="Portfolio" description="fasfdsf asdfa" image={Alice} link="https://alicebanting.com" />
 
 
 

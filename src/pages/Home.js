@@ -1,8 +1,7 @@
 import React from 'react';
-import ProjectCard from '../components/ProjectCard';
-import Aviatoh from '../assets/aviatoh.mov';
+import ProjectCard from '../components/ProjectCard'; 
 import AviatohImg from '../assets/aviatoh.png';
-import AliceVid from '../assets/alice.mov';
+import Alice from '../assets/alice.png';
 import Archana from '../assets/archana.mov';
 
 function Home(props) {
@@ -41,7 +40,7 @@ function Home(props) {
 
 <ProjectCard type="Documentation System" title="Aviatoh" link="https://aviatoh.com" image={AviatohImg} />
 
-<ProjectCard title="Alice Banting" type="Portfolio" description="fasfdsf asdfa" video={AliceVid} link="https://alicebanting.com" />
+<ProjectCard title="Alice Banting" type="Portfolio" description="fasfdsf asdfa" image={Alice} link="https://alicebanting.com" />
 
 
 
